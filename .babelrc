@@ -1,0 +1,6 @@
+{
+  "presets": [[ "env", { "targets": {"node": "current"} } ], "jest"],
+  "plugins": ["transform-flow-strip-types"],  
+  "sourceMaps": "inline",
+	"retainLines": true
+}
