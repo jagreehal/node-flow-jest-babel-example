@@ -19,17 +19,17 @@
     "babel-cli": "^6.23.0",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-preset-env": "^1.2.1",
-    "babel-preset-jest": "^19.0.0",
+    "babel-preset-jest": "^21.2.0",
     "babel-register": "^6.23.0",
-    "flow-bin": "^0.41.0",
+    "flow-bin": "^0.59.0",
     "flow-typed": "^2.0.0",
-    "jest": "^19.0.2",
+    "jest": "^21.2.1",
     "nodemon": "^1.11.0",
-    "prettier": "0.21.0",
+    "prettier": "1.8.1",
     "rimraf": "^2.6.1"
   },
   "dependencies": {
-    "source-map-support": "^0.4.11"
+    "source-map-support": "^0.5.0"
   },
   "jest": {
     "testRegex": "src/.*\\.spec\\.js$"
